@@ -4,7 +4,7 @@
 # Script Name : wazuh_upgrade.sh
 # Description : Wazuh Upgrade Automation Script
 # Author      : Abhinand
-# Note        : This update tool helps update from any version to the latest verion, currenlty tested till version 4.14.6
+# Note        : This upgrade tool helps upgrade from any version to the latest verion, currenlty tested till version 4.14.6
 ###############################################################################
 
 set -e
